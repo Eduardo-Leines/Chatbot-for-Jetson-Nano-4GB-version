@@ -1,4 +1,4 @@
-# Chatbot del Laboratorio Alan Turing (EPN)
+# Chatbot para Laboratorio Alan Turing (EPN) para Jetson Nano 4GB
 
 Este proyecto implementa un sistema de preguntas y respuestas (QA) utilizando un modelo de lenguaje grande (LLM) bajo la arquitectura de **Generación Aumentada por Recuperación (RAG)**. Su propósito es servir como un asistente virtual capaz de responder consultas específicas y contextualizadas sobre el **Laboratorio de Investigación en Inteligencia y Visión Artificial “Alan Turing”** de la Escuela Politécnica Nacional (EPN), basándose exclusivamente en una base de conocimiento interna.
 
